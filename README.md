@@ -17,8 +17,10 @@ Compared credit vs. debit flows across branches.
 Highlighted top-performing branches in terms of transaction value. 
 Provided decision-ready insights through dashboards.
 
-Screenshots/Demos
+# Screenshots/Demos
+
 Example: 
+
 Tableau : https://github.com/sumeet1102/Debit-and-Credit-Banking/blob/main/Screenshot%20Tableau%20dashboard.png
 
 PowerBI : https://github.com/sumeet1102/Debit-and-Credit-Banking/blob/main/Screenshot%20PowerBI%20dashboard.png
