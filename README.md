@@ -19,3 +19,4 @@ Provided decision-ready insights through dashboards.
 
 Screenshots/Demos
 Example: 
+Tableau : https://github.com/sumeet1102/Debit-and-Credit-Banking/blob/main/Screenshot%20Tableau%20dashboard.png
