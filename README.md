@@ -21,3 +21,4 @@ Screenshots/Demos
 Example: 
 Tableau : https://github.com/sumeet1102/Debit-and-Credit-Banking/blob/main/Screenshot%20Tableau%20dashboard.png
 PowerBI : https://github.com/sumeet1102/Debit-and-Credit-Banking/blob/main/Screenshot%20PowerBI%20dashboard.png
+Excel : https://github.com/sumeet1102/Debit-and-Credit-Banking/blob/main/Screenshot%20Excel%20Dashboard.png
