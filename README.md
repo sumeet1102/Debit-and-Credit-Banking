@@ -16,3 +16,6 @@ Identified high and low activity customers through account activity ratios.
 Compared credit vs. debit flows across branches. 
 Highlighted top-performing branches in terms of transaction value. 
 Provided decision-ready insights through dashboards.
+
+Screenshots/Demos
+Example: 
